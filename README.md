@@ -2,6 +2,13 @@
 
 bean-mock-api-shell is the shell designed for bean-mock-api-service. It also add more functions and make it ease of use.
 
+## Steps to create the project
+```
+vue create bean-mock-api-shell
+vue add electron-builder
+vue add element
+```
+
 ## Project setup
 ```
 npm install
