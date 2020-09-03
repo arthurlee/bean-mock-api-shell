@@ -42,3 +42,5 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
+- [vue-cli-plugin-element](https://github.com/ElementUI/vue-cli-plugin-element)
