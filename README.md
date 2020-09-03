@@ -1,5 +1,7 @@
 # bean-mock-api-shell
 
+bean-mock-api-shell is the shell designed for bean-mock-api-service. It also add more functions and make it ease of use.
+
 ## Project setup
 ```
 npm install
@@ -14,6 +16,17 @@ npm run serve
 ```
 npm run build
 ```
+
+### Compiles and hot-reloads for development in Electron
+```
+npm run electron:serve
+```
+
+### Compiles and minifies for Electron production
+```
+npm run electron:build
+```
+
 
 ### Lints and fixes files
 ```
