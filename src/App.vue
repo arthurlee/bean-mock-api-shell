@@ -1,6 +1,6 @@
 <template>
 <div id="app">
-	<el-container style="width: 100%; border: solid 1px red;">
+	<el-container style="width: 100%; min-height: 98.5vh; border: solid 1px red;">
 		<el-aside width="20%" style="border: solid 1px blue;">
 			侧边栏
 		</el-aside>
@@ -36,7 +36,7 @@ export default {
     -moz-osx-font-smoothing: grayscale;
     text-align: center;
     color: #2c3e50;
-    margin-top: 60px;
+    // margin-top: 60px;
 }
 
 
