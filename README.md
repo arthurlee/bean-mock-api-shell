@@ -7,6 +7,7 @@ bean-mock-api-shell is the shell designed for bean-mock-api-service. It also add
 vue create bean-mock-api-shell
 vue add electron-builder
 vue add element
+npm install sass-loader node-sass  --save-dev
 ```
 
 ## Project setup
